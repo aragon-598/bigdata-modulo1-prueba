@@ -1,327 +1,327 @@
 ############################################################################################################################
 Pelicula: 2024 Festivales y Muestras
 
-Independiente - Costa Rica		68.0		100.0 %
-
-Total	 	 	68.0
+Circuit                        Week\Adm   Porcentaje     
+Independiente - Costa Rica     68         100.0%         
+Total                          68        
 
 ############################################################################################################################
 Pelicula: 57 Segundos Atras
 
-CCM Cinemas		24.0		7.5 %
-Cinepolis		283.0		88.44 %
-Cines Moderno		7.0		2.19 %
-Independiente - Costa Rica		6.0		1.88 %
-
-Total	 	 	320.0
+Circuit                        Week\Adm   Porcentaje     
+CCM Cinemas                    24         7.5%           
+Cinepolis                      283        88.44%         
+Cines Moderno                  7          2.19%          
+Independiente - Costa Rica     6          1.88%          
+Total                          320       
 
 ############################################################################################################################
 Pelicula: Alicia en el País de las Pesadillas
 
-Studio Cinemas		37.0		1.46 %
-Royal Films Ltda		12.0		0.47 %
-Multicinemas - El Salvador		139.0		5.48 %
-Metrocinemas - Honduras		46.0		1.81 %
-Independiente - Honduras		71.0		2.8 %
-Herman Younger		24.0		0.95 %
-Unicines		81.0		3.2 %
-Cines Moderno		22.0		0.87 %
-Cinepolis		1528.0		60.28 %
-Caribbean Cinemas		99.0		3.91 %
-CCM Cinemas		152.0		6.0 %
-Alba Cinema - Guatemala		189.0		7.46 %
-Diusa		135.0		5.33 %
-
-Total	 	 	2535.0
+Circuit                        Week\Adm   Porcentaje     
+Studio Cinemas                 37         1.46%          
+Royal Films Ltda               12         0.47%          
+Multicinemas - El Salvador     139        5.48%          
+Metrocinemas - Honduras        46         1.81%          
+Independiente - Honduras       71         2.8%           
+Herman Younger                 24         0.95%          
+Unicines                       81         3.2%           
+Cines Moderno                  22         0.87%          
+Cinepolis                      1528       60.28%         
+Caribbean Cinemas              99         3.91%          
+CCM Cinemas                    152        6.0%           
+Alba Cinema - Guatemala        189        7.46%          
+Diusa                          135        5.33%          
+Total                          2535      
 
 ############################################################################################################################
 Pelicula: Atrapados en lo Profundo
 
-Cineflick		184.0		43.91 %
-Independiente - Costa Rica		10.0		2.39 %
-Multicinemas - El Salvador		52.0		12.41 %
-Nova Cinemas		173.0		41.29 %
-
-Total	 	 	419.0
+Circuit                        Week\Adm   Porcentaje     
+Cineflick                      184        43.91%         
+Independiente - Costa Rica     10         2.39%          
+Multicinemas - El Salvador     52         12.41%         
+Nova Cinemas                   173        41.29%         
+Total                          419       
 
 ############################################################################################################################
 Pelicula: Bob Marley La Leyenda
 
-Studio Cinemas		99.0		22.15 %
-Nova Cinemas		244.0		54.59 %
-Citicinemas CR		21.0		4.7 %
-CCM Cinemas		83.0		18.57 %
-
-Total	 	 	447.0
+Circuit                        Week\Adm   Porcentaje     
+Studio Cinemas                 99         22.15%         
+Nova Cinemas                   244        54.59%         
+Citicinemas CR                 21         4.7%           
+CCM Cinemas                    83         18.57%         
+Total                          447       
 
 ############################################################################################################################
 Pelicula: Crew
 
-Caribbean Cinemas		26.0		6.37 %
-Cinemark		382.0		93.63 %
-
-Total	 	 	408.0
+Circuit                        Week\Adm   Porcentaje     
+Caribbean Cinemas              26         6.37%          
+Cinemark                       382        93.63%         
+Total                          408       
 
 ############################################################################################################################
 Pelicula: Demon Slayer: Kimetsu No Yaiba - To the Hashira Training
 
-Multicinemas - El Salvador		75.0		100.0 %
-
-Total	 	 	75.0
+Circuit                        Week\Adm   Porcentaje     
+Multicinemas - El Salvador     75         100.0%         
+Total                          75        
 
 ############################################################################################################################
 Pelicula: Duna Parte Dos
 
-Independiente - Costa Rica		19.0		0.16 %
-Studio Cinemas		190.0		1.55 %
-Nova Cinemas		1844.0		15.07 %
-Multicinemas - El Salvador		19.0		0.16 %
-Metrocinemas - Honduras		272.0		2.22 %
-Diusa		475.0		3.88 %
-Liberia		48.0		0.39 %
-Cinepolis		6214.0		50.79 %
-Cinemark		2168.0		17.72 %
-Cinelandia		4.0		0.03 %
-CCM Cinemas		406.0		3.32 %
-Alba Cinema - Guatemala		551.0		4.5 %
-Cines Moderno		24.0		0.2 %
-
-Total	 	 	12234.0
+Circuit                        Week\Adm   Porcentaje     
+Independiente - Costa Rica     19         0.16%          
+Studio Cinemas                 190        1.55%          
+Nova Cinemas                   1844       15.07%         
+Multicinemas - El Salvador     19         0.16%          
+Metrocinemas - Honduras        272        2.22%          
+Diusa                          475        3.88%          
+Liberia                        48         0.39%          
+Cinepolis                      6214       50.79%         
+Cinemark                       2168       17.72%         
+Cinelandia                     4          0.03%          
+CCM Cinemas                    406        3.32%          
+Alba Cinema - Guatemala        551        4.5%           
+Cines Moderno                  24         0.2%           
+Total                          12234     
 
 ############################################################################################################################
 Pelicula: Días Perfectos
 
-Cinepolis		57.0		7.06 %
-Independiente - Costa Rica		750.0		92.94 %
-
-Total	 	 	807.0
+Circuit                        Week\Adm   Porcentaje     
+Cinepolis                      57         7.06%          
+Independiente - Costa Rica     750        92.94%         
+Total                          807       
 
 ############################################################################################################################
 Pelicula: Exorcistas
 
-Unicines		139.0		3.39 %
-Royal Films Ltda		29.0		0.71 %
-Nova Cinemas		54.0		1.32 %
-Multicinemas - El Salvador		326.0		7.96 %
-Independiente - Honduras		141.0		3.44 %
-Diusa		487.0		11.88 %
-Siglo Nuevo		175.0		4.27 %
-Cines Moderno		60.0		1.46 %
-Cinepolis		1563.0		38.14 %
-Cinemark		439.0		10.71 %
-Caribbean Cinemas		383.0		9.35 %
-CCM Cinemas		255.0		6.22 %
-Citicinemas CR		47.0		1.15 %
-
-Total	 	 	4098.0
+Circuit                        Week\Adm   Porcentaje     
+Unicines                       139        3.39%          
+Royal Films Ltda               29         0.71%          
+Nova Cinemas                   54         1.32%          
+Multicinemas - El Salvador     326        7.96%          
+Independiente - Honduras       141        3.44%          
+Diusa                          487        11.88%         
+Siglo Nuevo                    175        4.27%          
+Cines Moderno                  60         1.46%          
+Cinepolis                      1563       38.14%         
+Cinemark                       439        10.71%         
+Caribbean Cinemas              383        9.35%          
+CCM Cinemas                    255        6.22%          
+Citicinemas CR                 47         1.15%          
+Total                          4098      
 
 ############################################################################################################################
 Pelicula: Fatum
 
-Multicinemas - El Salvador		2.0		0.48 %
-Herman Younger		18.0		4.34 %
-Diusa		93.0		22.41 %
-Metrocinemas - Honduras		159.0		38.31 %
-Cinepolis		108.0		26.02 %
-Caribbean Cinemas		31.0		7.47 %
-Cines Moderno		4.0		0.96 %
-
-Total	 	 	415.0
+Circuit                        Week\Adm   Porcentaje     
+Multicinemas - El Salvador     2          0.48%          
+Herman Younger                 18         4.34%          
+Diusa                          93         22.41%         
+Metrocinemas - Honduras        159        38.31%         
+Cinepolis                      108        26.02%         
+Caribbean Cinemas              31         7.47%          
+Cines Moderno                  4          0.96%          
+Total                          415       
 
 ############################################################################################################################
 Pelicula: Godzilla y Kong: El Nuevo Imperio
 
-Liberia		1173.0		0.41 %
-Unicines		4151.0		1.45 %
-Studio Cinemas		650.0		0.23 %
-Siglo Nuevo		1550.0		0.54 %
-Royal Films Ltda		1379.0		0.48 %
-Pop Cinema		128.0		0.04 %
-Nova Cinemas		2929.0		1.02 %
-Multicinemas - El Salvador		5959.0		2.07 %
-Multicinemas		558.0		0.19 %
-Metrocinemas - Honduras		9090.0		3.16 %
-Independiente - Panama		668.0		0.23 %
-Independiente - Honduras		2550.0		0.89 %
-Caribbean Cinemas		7876.0		2.74 %
-Independiente - Costa Rica		726.0		0.25 %
-Herman Younger		1746.0		0.61 %
-Diusa		11097.0		3.86 %
-Cines Moderno		1797.0		0.63 %
-Cinepolis		140590.0		48.94 %
-Cinemark		64315.0		22.39 %
-Cinelandia		144.0		0.05 %
-Cineflick		1511.0		0.53 %
-Independiente - Guatemala		1311.0		0.46 %
-CCM Cinemas		4376.0		1.52 %
-Alba Cinema - Guatemala		20992.0		7.31 %
-
-Total	 	 	287266.0
+Circuit                        Week\Adm   Porcentaje     
+Liberia                        1173       0.41%          
+Unicines                       4151       1.45%          
+Studio Cinemas                 650        0.23%          
+Siglo Nuevo                    1550       0.54%          
+Royal Films Ltda               1379       0.48%          
+Pop Cinema                     128        0.04%          
+Nova Cinemas                   2929       1.02%          
+Multicinemas - El Salvador     5959       2.07%          
+Multicinemas                   558        0.19%          
+Metrocinemas - Honduras        9090       3.16%          
+Independiente - Panama         668        0.23%          
+Independiente - Honduras       2550       0.89%          
+Caribbean Cinemas              7876       2.74%          
+Independiente - Costa Rica     726        0.25%          
+Herman Younger                 1746       0.61%          
+Diusa                          11097      3.86%          
+Cines Moderno                  1797       0.63%          
+Cinepolis                      140590     48.94%         
+Cinemark                       64315      22.39%         
+Cinelandia                     144        0.05%          
+Cineflick                      1511       0.53%          
+Independiente - Guatemala      1311       0.46%          
+CCM Cinemas                    4376       1.52%          
+Alba Cinema - Guatemala        20992      7.31%          
+Total                          287266    
 
 ############################################################################################################################
 Pelicula: Guadalupe Madre de la Humanidad
 
-Cinemark		2.0		100.0 %
-
-Total	 	 	2.0
+Circuit                        Week\Adm   Porcentaje     
+Cinemark                       2          100.0%         
+Total                          2         
 
 ############################################################################################################################
 Pelicula: Hate to Love: Nickelback
 
-Cinemark		25.0		100.0 %
-
-Total	 	 	25.0
+Circuit                        Week\Adm   Porcentaje     
+Cinemark                       25         100.0%         
+Total                          25        
 
 ############################################################################################################################
 Pelicula: Imaginario Juguete Diabólico
 
-Cineflick		68.0		100.0 %
-
-Total	 	 	68.0
+Circuit                        Week\Adm   Porcentaje     
+Cineflick                      68         100.0%         
+Total                          68        
 
 ############################################################################################################################
 Pelicula: Kung Fu Panda 4
 
-Metrocinemas - Honduras		4135.0		3.16 %
-Liberia		954.0		0.73 %
-Independiente - Panama		11.0		0.01 %
-Multicinemas		655.0		0.5 %
-Unicines		1069.0		0.82 %
-Nova Cinemas		2357.0		1.8 %
-Royal Films Ltda		242.0		0.18 %
-Studio Cinemas		893.0		0.68 %
-Independiente - Honduras		655.0		0.5 %
-Multicinemas - El Salvador		3210.0		2.45 %
-Independiente - Guatemala		281.0		0.21 %
-Siglo Nuevo		442.0		0.34 %
-Herman Younger		198.0		0.15 %
-Alba Cinema - Guatemala		8307.0		6.34 %
-Independiente - Costa Rica		382.0		0.29 %
-Caribbean Cinemas		2988.0		2.28 %
-Cineflick		875.0		0.67 %
-Cinelandia		51.0		0.04 %
-CCM Cinemas		4443.0		3.39 %
-Cinepolis		61473.0		46.91 %
-Cines Moderno		403.0		0.31 %
-Citicinemas CR		179.0		0.14 %
-Diusa		4290.0		3.27 %
-Cinemark		32549.0		24.84 %
-
-Total	 	 	131042.0
+Circuit                        Week\Adm   Porcentaje     
+Metrocinemas - Honduras        4135       3.16%          
+Liberia                        954        0.73%          
+Independiente - Panama         11         0.01%          
+Multicinemas                   655        0.5%           
+Unicines                       1069       0.82%          
+Nova Cinemas                   2357       1.8%           
+Royal Films Ltda               242        0.18%          
+Studio Cinemas                 893        0.68%          
+Independiente - Honduras       655        0.5%           
+Multicinemas - El Salvador     3210       2.45%          
+Independiente - Guatemala      281        0.21%          
+Siglo Nuevo                    442        0.34%          
+Herman Younger                 198        0.15%          
+Alba Cinema - Guatemala        8307       6.34%          
+Independiente - Costa Rica     382        0.29%          
+Caribbean Cinemas              2988       2.28%          
+Cineflick                      875        0.67%          
+Cinelandia                     51         0.04%          
+CCM Cinemas                    4443       3.39%          
+Cinepolis                      61473      46.91%         
+Cines Moderno                  403        0.31%          
+Citicinemas CR                 179        0.14%          
+Diusa                          4290       3.27%          
+Cinemark                       32549      24.84%         
+Total                          131042    
 
 ############################################################################################################################
 Pelicula: La Melodia del Diablo
 
-Multicinemas - El Salvador		10.0		100.0 %
-
-Total	 	 	10.0
+Circuit                        Week\Adm   Porcentaje     
+Multicinemas - El Salvador     10         100.0%         
+Total                          10        
 
 ############################################################################################################################
 Pelicula: Lazos de Vida
 
-Cinepolis		1196.0		54.94 %
-Diusa		417.0		19.15 %
-Independiente - Costa Rica		205.0		9.42 %
-Nova Cinemas		359.0		16.49 %
-
-Total	 	 	2177.0
+Circuit                        Week\Adm   Porcentaje     
+Cinepolis                      1196       54.94%         
+Diusa                          417        19.15%         
+Independiente - Costa Rica     205        9.42%          
+Nova Cinemas                   359        16.49%         
+Total                          2177      
 
 ############################################################################################################################
 Pelicula: Los Buenos Modales
 
-Independiente - Costa Rica		263.0		91.96 %
-Nova Cinemas		23.0		8.04 %
-
-Total	 	 	286.0
+Circuit                        Week\Adm   Porcentaje     
+Independiente - Costa Rica     263        91.96%         
+Nova Cinemas                   23         8.04%          
+Total                          286       
 
 ############################################################################################################################
 Pelicula: Luca
 
-Siglo Nuevo		39.0		5.63 %
-Liberia		24.0		3.46 %
-Nova Cinemas		174.0		25.11 %
-Independiente - Costa Rica		7.0		1.01 %
-Cinepolis		439.0		63.35 %
-Independiente - Honduras		10.0		1.44 %
-
-Total	 	 	693.0
+Circuit                        Week\Adm   Porcentaje     
+Siglo Nuevo                    39         5.63%          
+Liberia                        24         3.46%          
+Nova Cinemas                   174        25.11%         
+Independiente - Costa Rica     7          1.01%          
+Cinepolis                      439        63.35%         
+Independiente - Honduras       10         1.44%          
+Total                          693       
 
 ############################################################################################################################
 Pelicula: Mavka: Guardiana del Bosque
 
-Cinepolis		591.0		100.0 %
-
-Total	 	 	591.0
+Circuit                        Week\Adm   Porcentaje     
+Cinepolis                      591        100.0%         
+Total                          591       
 
 ############################################################################################################################
 Pelicula: Noche de Bodas
 
-Caribbean Cinemas		21.0		7.39 %
-Cinepolis		201.0		70.77 %
-Cines Moderno		6.0		2.11 %
-Liberia		18.0		6.34 %
-Multicinemas - El Salvador		38.0		13.38 %
-
-Total	 	 	284.0
+Circuit                        Week\Adm   Porcentaje     
+Caribbean Cinemas              21         7.39%          
+Cinepolis                      201        70.77%         
+Cines Moderno                  6          2.11%          
+Liberia                        18         6.34%          
+Multicinemas - El Salvador     38         13.38%         
+Total                          284       
 
 ############################################################################################################################
 Pelicula: Nosotros Los de la Fe
 
-Cinepolis		1046.0		84.02 %
-Diusa		199.0		15.98 %
-
-Total	 	 	1245.0
+Circuit                        Week\Adm   Porcentaje     
+Cinepolis                      1046       84.02%         
+Diusa                          199        15.98%         
+Total                          1245      
 
 ############################################################################################################################
 Pelicula: Pobres Criaturas
 
-Nova Cinemas		65.0		100.0 %
-
-Total	 	 	65.0
+Circuit                        Week\Adm   Porcentaje     
+Nova Cinemas                   65         100.0%         
+Total                          65        
 
 ############################################################################################################################
 Pelicula: Rescate Imposible
 
-Multicinemas - El Salvador		13.0		14.29 %
-Independiente - Costa Rica		19.0		20.88 %
-Metrocinemas - Honduras		59.0		64.84 %
-
-Total	 	 	91.0
+Circuit                        Week\Adm   Porcentaje     
+Multicinemas - El Salvador     13         14.29%         
+Independiente - Costa Rica     19         20.88%         
+Metrocinemas - Honduras        59         64.84%         
+Total                          91        
 
 ############################################################################################################################
 Pelicula: Sismo Magnitud 9.5
 
-Cinepolis		503.0		92.46 %
-Multicinemas - El Salvador		41.0		7.54 %
-
-Total	 	 	544.0
+Circuit                        Week\Adm   Porcentaje     
+Cinepolis                      503        92.46%         
+Multicinemas - El Salvador     41         7.54%          
+Total                          544       
 
 ############################################################################################################################
 Pelicula: The Chosen (Temp 4 - Cap. 1 y 2)
 
-Cinemark		372.0		37.92 %
-Cinepolis		236.0		24.06 %
-Diusa		125.0		12.74 %
-Nova Cinemas		248.0		25.28 %
-
-Total	 	 	981.0
+Circuit                        Week\Adm   Porcentaje     
+Cinemark                       372        37.92%         
+Cinepolis                      236        24.06%         
+Diusa                          125        12.74%         
+Nova Cinemas                   248        25.28%         
+Total                          981       
 
 ############################################################################################################################
 Pelicula: ¡Patos!
 
-Cineflick		110.0		81.48 %
-Citicinemas CR		25.0		18.52 %
-
-Total	 	 	135.0
+Circuit                        Week\Adm   Porcentaje     
+Cineflick                      110        81.48%         
+Citicinemas CR                 25         18.52%         
+Total                          135       
 
 ############################################################################################################################
 Pelicula: Érase una vez en Panamá
 
-Cinepolis		6721.0		80.74 %
-Cinemark		602.0		7.23 %
-Cines Moderno		352.0		4.23 %
-Caribbean Cinemas		568.0		6.82 %
-Cinelandia		19.0		0.23 %
-Royal Films Ltda		62.0		0.74 %
-
-Total	 	 	8324.0
+Circuit                        Week\Adm   Porcentaje     
+Cinepolis                      6721       80.74%         
+Cinemark                       602        7.23%          
+Cines Moderno                  352        4.23%          
+Caribbean Cinemas              568        6.82%          
+Cinelandia                     19         0.23%          
+Royal Films Ltda               62         0.74%          
+Total                          8324      
